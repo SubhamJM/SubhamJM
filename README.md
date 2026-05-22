@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Subhamjyoti Maharana, a CSE student at NIT Warangal.
+
+I'm currently Learning a lot about machine learning and deep learning using tensorflow.
+
+My main tech stack include python with libraries like scikit-learn, pandas, numpy, matplotlib and tensowflow.
+
+You can checkout my previous works in github profile!
+
 <!--
 **SubhamJM/SubhamJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
