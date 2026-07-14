@@ -1,24 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-I'm Subhamjyoti Maharana, a CSE student at NIT Warangal.
+# Hi, I'm Subham 👋
 
-I'm currently Learning a lot about machine learning and deep learning using tensorflow.
+**Computer Science Undergrad @ NIT Warangal**
 
-My main tech stack include python with libraries like scikit-learn, pandas, numpy, matplotlib and tensowflow.
+Web Development · Machine Learning · Software Engineering
 
-You can checkout my previous works in github profile!
+<img src="https://komarev.com/ghpvc/?username=SubhamJM&label=Profile%20views&color=0e75b6&style=flat" alt="SubhamJM" />
 
-<!--
-**SubhamJM/SubhamJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build full-stack web apps, ML prototypes, and developer tools. I enjoy clean code, readable documentation, and small projects that solve real problems.
+
+<br>
+
+### 🛠️ Tech Stack
+
+**Languages** &nbsp;Python · JavaScript (Node.js) · C++
+**Web** &nbsp;HTML · CSS · FastAPI · Firebase
+**ML / Data** &nbsp;scikit-learn · TensorFlow · pandas · NumPy
+**Tools** &nbsp;Git · Docker · GitHub Actions · VS Code
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+</p>
+
+<br>
+
+### 📌 Highlighted Projects
+
+| Project | Description |
+|---|---|
+| **[RAG Chatbot](https://github.com/SubhamJM/RAG-Chatbot-Policies)** | A RAG chatbot to answer questions about Google and Apple policy documents |
+| **[Agentic AI Researcher](https://github.com/SubhamJM/Agentic-AI-Researcher)** | An agentic AI workflow that researches a topic given by the user |
+| **[Fake News Detector](https://github.com/SubhamJM/Fake-News-Detector)** | A fake news detector using an LSTM deep learning model |
+
+<br>
+
+### 💡 What I Do
+
+- 🤖 Prototype ML models and RAG/LLM-assisted apps to solve practical tasks
+- 🌐 Build and deploy small full-stack applications with solid documentation
+
+### 📚 What I'm Learning
+
+- ⚙️ Advanced ML model optimization and deployment
+- 🔧 Backend engineering with production-ready APIs and testing
+- 🦀 Rust, for fast and efficient compiled builds
+
+<br>
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:subhamjyotimaharana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/subhamjm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+
+</div>
