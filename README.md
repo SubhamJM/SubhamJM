@@ -5,23 +5,23 @@
 **Computer Science Undergrad @ NIT Warangal**
 
 Web Development · Machine Learning · Software Engineering
-
-<img src="https://komarev.com/ghpvc/?username=SubhamJM&label=Profile%20views&color=0e75b6&style=flat" alt="SubhamJM" />
-
 </div>
 
 <br>
 
 I build full-stack web apps, ML prototypes, and developer tools. I enjoy clean code, readable documentation, and small projects that solve real problems.
 
-<br>
-
 ### 🛠️ Tech Stack
 
-**Languages** &nbsp;Python · JavaScript (Node.js) · C++
-**Web** &nbsp;HTML · CSS · FastAPI · Firebase
-**ML / Data** &nbsp;scikit-learn · TensorFlow · pandas · NumPy
-**Tools** &nbsp;Git · Docker · GitHub Actions · VS Code
+**Languages:** &nbsp;Python · JavaScript (Node.js) · C++
+
+**Web:** &nbsp;HTML · CSS · FastAPI · Firebase
+
+**ML / Data:** &nbsp;scikit-learn · TensorFlow · pandas · NumPy
+
+**Agentic AI:** &nbsp;Langchain · Langgraph · ChromaDB
+
+**Tools:** &nbsp;Git · Docker · GitHub Actions · VS Code
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -38,8 +38,6 @@ I build full-stack web apps, ML prototypes, and developer tools. I enjoy clean c
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 </p>
 
-<br>
-
 ### 📌 Highlighted Projects
 
 | Project | Description |
@@ -47,8 +45,6 @@ I build full-stack web apps, ML prototypes, and developer tools. I enjoy clean c
 | **[RAG Chatbot](https://github.com/SubhamJM/RAG-Chatbot-Policies)** | A RAG chatbot to answer questions about Google and Apple policy documents |
 | **[Agentic AI Researcher](https://github.com/SubhamJM/Agentic-AI-Researcher)** | An agentic AI workflow that researches a topic given by the user |
 | **[Fake News Detector](https://github.com/SubhamJM/Fake-News-Detector)** | A fake news detector using an LSTM deep learning model |
-
-<br>
 
 ### 💡 What I Do
 
@@ -60,8 +56,6 @@ I build full-stack web apps, ML prototypes, and developer tools. I enjoy clean c
 - ⚙️ Advanced ML model optimization and deployment
 - 🔧 Backend engineering with production-ready APIs and testing
 - 🦀 Rust, for fast and efficient compiled builds
-
-<br>
 
 ### 📫 Connect With Me
 
